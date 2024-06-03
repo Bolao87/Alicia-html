@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: pink;
+}
+header {
+    background-image: url(Ascotimage-7T314HpyCm9sg2imPFa32BZu3t3PGRvimEu9NtCk.jpg);
+    color: greenyellow;
+    padding: 1rem;
+    text-align: center;
+}
